@@ -1,3 +1,23 @@
+# MovieFlix - Demo Streaming Platform
+
+This is a **demo project** created for educational purposes only. It's inspired by Netflix's design but is not affiliated with Netflix in any way.
+
+## Features
+- Responsive design
+- Movie grid layout
+- Interactive hover effects
+- Modern UI/UX
+
+## Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+
+## Demo
+This is a student project demonstrating front-end web development skills.
+
+**Disclaimer:** This project is for educational purposes only and is not intended for commercial use.
+
 # NetFlix_Clone
 ## Date: 10/07/2025
 ## Objective:
